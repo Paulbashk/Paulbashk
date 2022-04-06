@@ -6,7 +6,7 @@
 - CSS
 - PHP ( REST API )
 - Figma
-- JavaScript
+- JavaScript ( ES5, ES6+ )
 - React
 - Адаптивная и кроссбраузерная верстка сайтов
 - Перенос верстки в WordPress с использованием плагинов управления контентом
@@ -15,10 +15,10 @@
 -
 - Спектр технологий:
 - Bootstrap 5 / Material UI / validate.js / slick slider / jQuery UI / Axios и др.
-- CSS preprocessors: SCSS (SASS) / LESS 
-- jQuery
+- CSS препроцессоры: SCSS (SASS) / LESS 
+- Ранее работал с jQuery
 - WordPress ( ACF Pro, Polylang, Custom Post Type, Duplicator, Yoast SEO и др. )
-- React ( React Router, React JSX, React Bootstrap )
+- React ( React Router, React JSX, React Bootstrap, React SASS )
 -
 - Мои контакты:
 - VK: https://vk.com/paul.bash
